@@ -15,14 +15,11 @@ Bem-vindo ao **Jogo da Memória**! Este é um jogo simples desenvolvido com HTML
 
 ![Captura de Tela (63)](https://github.com/user-attachments/assets/038e4c7e-c5ec-4b95-a7a3-ef5c6dced621)
 
-
-![Tela de Login](./images/screenshot-login.png)
-
 Descrição da tela de login. Aqui você insere seu nome e clica em "Jogar" para iniciar o jogo.
 
 ### Jogo da Memória
 
-![Jogo da Memória](./images/screenshot-game.png)
+![Captura de Tela (64)](https://github.com/user-attachments/assets/7d007beb-568c-41d5-995e-49210c1692f2)
 
 Descrição do jogo da memória. Você deve combinar pares de cartas para vencer.
 
@@ -32,6 +29,7 @@ Descrição do jogo da memória. Você deve combinar pares de cartas para vencer
 - **HTML**: Estrutura da página.
 - **CSS**: Estilo e layout.
 - **JavaScript**: Lógica do jogo e interação.
+
 
 ## Como Jogar
 
