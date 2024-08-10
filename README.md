@@ -7,7 +7,7 @@ Bem-vindo ao **Jogo da Memória**! Este é um jogo simples desenvolvido com HTML
 - **Tela de Login**: Insira seu nome e clique em "Jogar" para começar o jogo.
 - **Jogo da Memória**: Combine pares de cartas com base em imagens dos personagens de *Os Simpsons*.
 - **Cronômetro**: O tempo é monitorado e exibido durante o jogo.
-- **Tempo Limite**: O tempo limite é de 60 minutos, se o tempo acabar antes de encontrar todos os pares, o jogo termina.
+- **Tempo Limite**: O tempo limite é de 35 segundos, se o tempo acabar antes de encontrar todos os pares, o jogo termina.
 
 ## Capturas de Tela
 
