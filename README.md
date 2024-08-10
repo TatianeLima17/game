@@ -13,7 +13,7 @@ Bem-vindo ao **Jogo da Memória**! Este é um jogo simples desenvolvido com HTML
 
 ### Tela de Login
 
-![image](https://github.com/user-attachments/assets/2102e8a1-0990-4ff3-8c3d-2f7b024f08e0)
+![Captura de Tela (63)](https://github.com/user-attachments/assets/038e4c7e-c5ec-4b95-a7a3-ef5c6dced621)
 
 
 ![Tela de Login](./images/screenshot-login.png)
